@@ -1,0 +1,9 @@
+.venv/
+.tmp_txt/
+.cline-home/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+node_modules/
+.env
